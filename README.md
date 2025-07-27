@@ -1,4 +1,4 @@
 # SecondProject-repos
-This is my Second github Repository
+This is my Second github Repository.
 <br>
-Author- Harsh kumar 
+Author- Harsh keshri
